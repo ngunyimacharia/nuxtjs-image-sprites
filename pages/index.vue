@@ -24,7 +24,6 @@
         </div>
       </div>
 
-      <!-- More products... -->
     </div>
   </div>
 </div>
